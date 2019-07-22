@@ -1,0 +1,32 @@
+import turtle
+#S
+turtle.penup()
+turtle.goto (-300,100)
+turtle.pendown ()
+turtle.goto (-350,100)
+turtle.goto (-400,50)
+turtle.goto (-350,0)
+turtle.goto (-325,0)
+turtle.goto (-275,-50)
+turtle.goto (-325,-100)
+turtle.goto (-375,-100)
+turtle.penup ()
+
+#H
+turtle.goto (-260,100)
+turtle.pendown ()
+turtle.goto (-260,-100)
+turtle.penup ()
+turtle.goto (-260,0)
+turtle.pendown ()
+turtle.goto (-160,0)
+turtle.penup ()
+turtle.goto (-160,100)
+turtle.pendown ()
+turtle.goto (-160,-100)
+turtle.penup ()
+
+
+
+
+turtle.mainloop()
